@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://illhan.vercel.app/sitemap.xml
